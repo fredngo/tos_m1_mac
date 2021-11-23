@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<plist version="0.9">
+        
+    <dict>
+                
+        <key>CFBundleExecutable</key>
+                
+        <string>run.sh</string>
+                
+        <key>CFBundleIconFile</key>
+                
+        <string>app.icns</string>
+                
+        <key>CFBundleInfoDictionaryVersion</key>
+                
+        <string>6.0</string>
+                
+        <key>CFBundlePackageType</key>
+                
+        <string>APPL</string>
+                
+        <key>CFBundleSignature</key>
+                
+        <string>????</string>
+                
+        <key>CFBundleVersion</key>
+                
+        <string>1.0</string>
+            
+        <key>CFBundleURLTypes</key>
+        <array>
+            <dict>
+                <key>CFBundleURLName</key>
+                <string>TOS Sharing Center URL</string>
+                <key>CFBundleURLSchemes</key>
+                <array>
+                    <string>tossc</string>
+                </array>
+            </dict>
+            <dict>
+                <key>CFBundleURLName</key>
+                <string>thinkorswim URL</string>
+                <key>CFBundleURLSchemes</key>
+                <array>
+                    <string>thinkorswim</string>
+                </array>
+            </dict>
+        </array>
+    </dict>
+    
+</plist>
