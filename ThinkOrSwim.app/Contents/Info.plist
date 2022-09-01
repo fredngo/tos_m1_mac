@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <plist version="0.9">
-        
+
     <dict>
-                
+        <key>LSArchitecturePriority</key>
+        <array>
+            <string>arm64e</string>
+            <string>x86_64</string>
+        </array>
+
         <key>CFBundleExecutable</key>
-                
-        <string>run.sh</string>
-                
+
+        <string>run.command</string>
+
         <key>CFBundleIconFile</key>
-                
+
         <string>app.icns</string>
-                
+
         <key>CFBundleInfoDictionaryVersion</key>
-                
+
         <string>6.0</string>
-                
+
         <key>CFBundlePackageType</key>
-                
+
         <string>APPL</string>
-                
+
         <key>CFBundleSignature</key>
-                
+
         <string>????</string>
-                
+
         <key>CFBundleVersion</key>
-                
+
         <string>1.0</string>
-            
+
         <key>CFBundleURLTypes</key>
         <array>
             <dict>
@@ -47,5 +52,5 @@
             </dict>
         </array>
     </dict>
-    
+
 </plist>
